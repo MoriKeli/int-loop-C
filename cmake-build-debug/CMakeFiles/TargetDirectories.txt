@@ -1,0 +1,3 @@
+C:/Users/MORI/OneDrive/Documents/Coding/Console/C/For loop to print integers(8, 11, 14, ...86,89)/cmake-build-debug/CMakeFiles/For_loop_to_print_integers_8__11__14_____86_89_.dir
+C:/Users/MORI/OneDrive/Documents/Coding/Console/C/For loop to print integers(8, 11, 14, ...86,89)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MORI/OneDrive/Documents/Coding/Console/C/For loop to print integers(8, 11, 14, ...86,89)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

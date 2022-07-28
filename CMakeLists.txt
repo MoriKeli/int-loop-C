@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(For_loop_to_print_integers_8__11__14_____86_89_ C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(For_loop_to_print_integers_8__11__14_____86_89_ main.c)
